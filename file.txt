@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello
 hi
+=======
+>>>>>>> parent of 390e6ad (2nd)
